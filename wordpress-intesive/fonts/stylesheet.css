@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Outfit';
+    src: url('Outfit-Thin.eot');
+    src: local('Outfit Thin'), local('Outfit-Thin'),
+        url('Outfit-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Outfit-Thin.woff2') format('woff2'),
+        url('Outfit-Thin.woff') format('woff'),
+        url('Outfit-Thin.ttf') format('truetype'),
+        url('Outfit-Thin.svg#Outfit-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Zen Kaku Gothic New';
+    src: url('ZenKakuGothicNew-Medium.eot');
+    src: local('Zen Kaku Gothic New Medium'), local('ZenKakuGothicNew-Medium'),
+        url('ZenKakuGothicNew-Medium.eot?#iefix') format('embedded-opentype'),
+        url('ZenKakuGothicNew-Medium.woff2') format('woff2'),
+        url('ZenKakuGothicNew-Medium.woff') format('woff'),
+        url('ZenKakuGothicNew-Medium.ttf') format('truetype'),
+        url('ZenKakuGothicNew-Medium.svg#ZenKakuGothicNew-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
